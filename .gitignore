@@ -1,0 +1,45 @@
+# -----------------------
+# Compiled Object Files
+# -----------------------
+*.o
+*.obj
+
+# -----------------------
+# Compiled Binary Files
+# -----------------------
+*.exe
+*.out
+*.app
+
+# -----------------------
+# Static & Shared Libraries
+# -----------------------
+*.a
+*.so
+*.so.*
+
+# -----------------------
+# Build Directories
+# -----------------------
+/build/
+/bin/
+/lib/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# -----------------------
+# Logs & Temp Files
+# -----------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# -----------------------
+# IDE / Editor configs
+# -----------------------
+.vscode/
+.idea/
+*.code-workspace
